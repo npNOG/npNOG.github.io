@@ -1,1 +1,1 @@
-# npNOG.github.io
+# Nepal Network Operators' Group (npNOG) 
