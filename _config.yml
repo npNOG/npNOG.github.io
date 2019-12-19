@@ -8,7 +8,9 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
+# include:
+#   - README.md
+exclude:
   - README.md
 theme: minima #jekyll-theme-cayman
 

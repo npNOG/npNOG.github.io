@@ -1,6 +1,6 @@
 ---
-layout: page
-title: welcome
+layout: home
+title: Home
 ---
 
 Welcome to Nepal Network Operators’ Group (npNOG). npNOG is a community of network operators who work in ISPs, Content Providers, Telcos and other areas of the Internet and ICT industry in Nepal.
