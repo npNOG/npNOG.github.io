@@ -39,22 +39,28 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+  - events.md
+  - about.md
 
-theme: minima #jekyll-theme-cayman
+# theme: minima #jekyll-theme-cayman
 
 plugins:
-  - jekyll-relative-links
+  # - jekyll-relative-links
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-redirect-from
   # - jekyll-admin
 
 relative_links:
   enabled: true
   collections: true
-# include:
+
+#include:
 #   - README.md
 exclude:
   - README.md
+
+remote_theme: chrisrhymes/bulma-clean-theme
