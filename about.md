@@ -22,4 +22,4 @@ npNOG would like to thank partnering organizations for their long-term commitmen
 - Internet Service Provider Association of Nepal (ISPAN)
 - Nepal Research and Education Network (NREN)
 
-npNOG events have been possible due to huge support from Nepal Government and sponsorship patronage from internet industry leaders. We would like to thank them all for their support and encouragement. All sponsors are acknowledged in the respective event websites.
+**npNOG** events have been possible due to huge support from Nepal Government and sponsorship patronage from internet industry leaders. We would like to thank them all for their support and encouragement. All sponsors are acknowledged in the respective event websites.
