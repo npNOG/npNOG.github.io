@@ -1,10 +1,55 @@
 title: Nepal Network Operators' Group (npNOG)
+author: npNOG
 email: info@npnog.org.np
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to Nepal Network Operators’ Group (npNOG). npNOG is a community of network operators who work in ISPs, Content Providers, Telcos and other areas of the Internet and ICT industry in Nepal.
   नेपाल नेटवर्क अपरेटर्स ग्रुपमा यहाँलाई स्वागत छ। यो इन्टरनेट सेवा प्रदायक र सूचना संचार प्रविधिको क्षेत्रमा कार्यरत व्यक्ति एवंम संस्थाहरुको समूह हो। यसको उदेश्य नेपालको इन्टर्नेट समुदायबिच समन्वय र सहकार्य बृद्दि गर्ने भुमिका खेल्नु हो।
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    #twitter: jekyllrb
+    github:  npNOG
+    rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+theme: minima #jekyll-theme-cayman
+
 plugins:
   - jekyll-relative-links
+  - jekyll-feed
+  - jekyll-seo-tag
+
 relative_links:
   enabled: true
   collections: true
@@ -12,5 +57,3 @@ relative_links:
 #   - README.md
 exclude:
   - README.md
-theme: minima #jekyll-theme-cayman
-
