@@ -52,6 +52,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-remote-theme
   # - jekyll-admin
 
 relative_links:
