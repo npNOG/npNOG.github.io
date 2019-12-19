@@ -1,6 +1,6 @@
 title: Nepal Network Operators' Group (npNOG)
 author: npNOG
-email: info@npnog.org.np
+email: info[at]npnog[dot]org[dot]np
 description: > # this means to ignore newlines until "baseurl:"
   npNOG is a community of network operators who work in ISPs, Content Providers, Telcos and other areas of the Internet and ICT industry in Nepal.
 
@@ -14,7 +14,7 @@ minima:
   # generate social links in footer
   social_links:
     #twitter: jekyllrb
-    github:  npNOG
+    github: npNOG
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll

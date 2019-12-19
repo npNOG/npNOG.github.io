@@ -1,9 +1,8 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
-
-## About npNOG
 
 **npNOG** is an open forum for sharing and discussions of issues of technical and operational relevance for the Internet community in Nepal. The objective of this forum is to improve sharing and co-operation between network operators, academics and enthusiasts.
 
@@ -11,11 +10,11 @@ title: About
 
 Anyone is free to join and participate in the community by complying to its terms and conditions.
 
-### About npNOG Mailing List
+## About npNOG Mailing List
 
 The npNOG mailing list is an open (sometimes moderated) mailing list providing a forum for the discussion of technical and operational information by network operators. Anyone is free to join and participate in the community. The list can be used to ask questions, disseminate information and share operational know how.
 
-### Partners and Sponsors
+## Partners and Sponsors
 
 npNOG would like to thank partnering organizations for their long-term commitment to npNOG activities and events.
 
