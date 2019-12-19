@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Abour
+title: About
 ---
 
 ## About npNOG
