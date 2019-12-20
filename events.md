@@ -2,6 +2,7 @@
 layout: page
 title: Events
 permalink: /events/
+hide_hero: true 
 ---
 
 ## npNOG5

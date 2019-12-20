@@ -1,6 +1,9 @@
 ---
 layout: page
 permalink: /
+title: Nepal Network Operators’ Group (npNOG)
+subtitle: नेपाल नेटवर्क अपरेटर्स ग्रुप (एन्पिनोग)
+hero_height: is-small
 ---
 
 **Welcome to Nepal Network Operators’ Group (npNOG)**.

@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+hide_hero: true 
 ---
 
 **npNOG** is an open forum for sharing and discussions of issues of technical and operational relevance for the Internet community in Nepal. The objective of this forum is to improve sharing and co-operation between network operators, academics and enthusiasts.
