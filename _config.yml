@@ -44,7 +44,7 @@ header_pages:
   - about.md
 
 # theme: minima #jekyll-theme-cayman
-theme: bulma-clean-theme
+# theme: bulma-clean-theme
 
 plugins:
   # - jekyll-relative-links
